@@ -1,2 +1,2 @@
 # Endprivate
-Endprivate - is a non-profit organization develops cryptography type products.
+Endprivate - is a non-profit that organization develops cryptography type products.
